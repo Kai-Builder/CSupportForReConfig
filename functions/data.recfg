@@ -1,0 +1,6 @@
+c = c_data
+
+_c++ = cxx_data
+
+return(->array) = []
+

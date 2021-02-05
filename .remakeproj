@@ -1,0 +1,18 @@
+/*
+Main RemakeProject File
+
+- Repository
+- Author
+- Compiler
+- Project Name
+- Build Command
+*/
+// ReMake Does Use a Modified Edition Of JSON.
+// It allows for Comments.
+{
+  "auth": "Kai-Builder",
+  "repo": "dist",
+  "build_command": "echo Thank you for using the C++ Module.",
+  "compiler": "default",
+  "project_name": "C Support for ReConfig"
+}

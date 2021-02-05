@@ -1,0 +1,11 @@
+async(def main-> send await return main)
+async(wait)
+
+main(func)
+
+main(bind)
+
+bindL(await)
+
+func(bind:function)
+

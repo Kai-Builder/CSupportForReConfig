@@ -1,0 +1,23 @@
+print(->file)
+
+scanf(->type)
+
+fscanf(->type, mode)
+
+sscanf(->type, var)
+
+vsscanf(->api, __request__)
+
+cos(doublexpr*binary)
+
+sin(doublebin*)
+
+commandf(command)
+
+system(command)
+
+file(os->os:system)
+
+get(return)
+
+return(->os:system(stop))

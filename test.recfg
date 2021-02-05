@@ -1,0 +1,27 @@
+get(->open)
+
+retrieve(-static)
+
+
+CLIST = { bin bin bin bin bin bin bin bin bin }
+
+
+main(->return func)
+
+
+
+func(->async(wait))
+
+func(func)
+
+
+get(delta)
+
+_func_process(func)
+
+
+open(close())
+
+return(all->types)
+
+deltaproc__(return asstream)
